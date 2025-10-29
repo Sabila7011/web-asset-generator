@@ -7,6 +7,7 @@ Talk to Claude naturally to create production-ready web assets from logos, text,
 [![Claude Code](https://img.shields.io/badge/Claude-Code_Skill-violet)](https://claude.ai/code)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Mentioned in Awesome Claude Code](https://awesome.re/mentioned-badge.svg)](https://github.com/hesreallyhim/awesome-claude-code)
 
 ## What is This?
 
